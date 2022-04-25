@@ -10,7 +10,7 @@ Op 25 april 2022, heb ik een Content Audit gehouden met behulp van Lighthouse vo
 ### 🍝 First Contentful Paint (FCP)
 **_'Eerste tekenbewerking met content' (FCP) geeft het tijdstip aan waarop de eerste tekst of afbeelding wordt getoond. Tussen de 0-1.8s wordt er een colorcoding van groen aangegeven. Dit betekent dat de FCP erg snel is._**
 
-Als de FCP langzaam is, dan ligt het waarschijnlijk aan de font load time.
+Als de FCP langzaam is, dan ligt het waarschijnlijk aan de font load time. Probeer hierbij dus van een font-display.
 
 Hierbij wordt mijn portfolio site een tijd van 0,9s gegeven. 
 
@@ -46,12 +46,23 @@ Als de TBT een matige score heeft, kan je deze verbeteren, door onnodige Javascr
 Hierbij wordt mijn portfolio site een tijd van 220ms gegeven.
 
 ### 🥮 Largest Contentful Paint (LCP)
-_Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+**_Grootste weergave met content (LCP) geeft het tijdstip aan waarop de grootste tekst of afbeelding is. Tussen de 0-2.5s wordt er een colorcoding van groen aangegeven. Dit betekent dat de LCP snel is._**
+
+Als de LCP een matige score heeft, kan je deze verbeteren, door dat tekst zichtbaar blijft tijdens het laden van weblettertypen. Vermijd enorme netwerkpayloads (totale 6.125kbs).
+
+Hierbij wordt mijn portfolio site een tijd van 0,9s gegeven.
 
 ### 🍿 Cumulative Layout Shift (CLS)
-_Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+**_Cumulatieve indelingsverschuiving (CLS) meet de beweging van zichtbare elementen binnen het kijkvenster. Een goeie CLS is tussen de 0 en 0,1,_**
+
+Als de CLS een matige score heeftm kan je deze verbeteren, door afbeeldingen een width en een height te geven. (Vooral de de hero-image en de project thumbnails moet dit gedaan worden)
+
+Hierbij wordt de CLS een score van  0,247 gegeven.
+
 
 ## 🍫 Bronnen
+- [Portfolio](https://justinlung.com/)
+- [Ligthouse](https://developers.google.com/web/tools/lighthouse)
 
 ## 🍦 Licentie
 
