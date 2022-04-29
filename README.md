@@ -4,6 +4,8 @@
 ## 🍕 Content Audit
 Op 25 april 2022, heb ik een Content Audit gehouden met behulp van Lighthouse voor mijn portfolio website. Op deze site worden mijn projecten getoond en  heeft dus een performance score van 78 gekeregen na de Content Audit.
 
+![Lighthouse Score](https://github.com/JustinLung/performance-matters-performance-audit/blob/main/docs/performance-lighthouse.png?raw=true)
+
 [🌐 Link](https://justinlung.com/)  
 [😺 Repository](https://github.com/JustinLung/Portfolio)
 
