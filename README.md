@@ -55,7 +55,7 @@ Hierbij wordt mijn portfolio site een tijd van 0,9s gegeven.
 ### 🍿 Cumulative Layout Shift (CLS)
 **_Cumulatieve indelingsverschuiving (CLS) meet de beweging van zichtbare elementen binnen het kijkvenster. Een goeie CLS is tussen de 0 en 0,1,_**
 
-Als de CLS een matige score heeftm kan je deze verbeteren, door afbeeldingen een width en een height te geven. (Vooral de de hero-image en de project thumbnails moet dit gedaan worden)
+Als de CLS een matige score heeft, kan je deze verbeteren, door afbeeldingen een width en een height te geven. (Vooral de de hero-image en de project thumbnails moet dit gedaan worden)
 
 Hierbij wordt de CLS een score van  0,247 gegeven.
 
