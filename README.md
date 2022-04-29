@@ -63,7 +63,7 @@ Hierbij wordt de CLS een score van  0,247 gegeven.
 
 
 ## 🍫 Bronnen
-- [Portfolio](https://justinlung.com/)
+- [Justin Lung - Portfolio](https://justinlung.com/)
 - [Ligthouse](https://developers.google.com/web/tools/lighthouse)
 
 ## 🍦 Licentie
